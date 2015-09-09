@@ -1,0 +1,5 @@
+D:\DINCER_UYGUN\_dincer.uygun\gitHub\Projects\Deneme\deneme\bin\Debug\deneme.exe
+D:\DINCER_UYGUN\_dincer.uygun\gitHub\Projects\Deneme\deneme\bin\Debug\deneme.pdb
+D:\DINCER_UYGUN\_dincer.uygun\gitHub\Projects\Deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+D:\DINCER_UYGUN\_dincer.uygun\gitHub\Projects\Deneme\deneme\obj\Debug\deneme.exe
+D:\DINCER_UYGUN\_dincer.uygun\gitHub\Projects\Deneme\deneme\obj\Debug\deneme.pdb

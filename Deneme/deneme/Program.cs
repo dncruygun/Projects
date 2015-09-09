@@ -10,5 +10,10 @@ namespace deneme
         static void Main(string[] args)
         {
         }
+
+        private void deneme()
+        {
+            Console.Write("Hello world");
+        }
     }
 }
